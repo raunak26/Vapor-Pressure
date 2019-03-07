@@ -1,6 +1,5 @@
 # vp.py
 # Raunak Anand
-# ECS 36A Winter Quarter
 # a program that asks the user for the temperature t
 # in degrees Celsius
 # then displays the estimated vapor pressure of water vapor
